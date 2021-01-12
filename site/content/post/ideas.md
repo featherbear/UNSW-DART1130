@@ -24,6 +24,7 @@ sequenceDiagrams:
 * Object at different heights (this should affect diffusion + soft edges)
 * Multiple light sources
 * Newspaper
+* Partial developer exposure
 
 ---
 

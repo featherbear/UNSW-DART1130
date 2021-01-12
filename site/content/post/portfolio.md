@@ -51,11 +51,14 @@ Storm: 0s lightning, 5s BG, 2s left, 3s right
 Peace: 1.5s left, 2s right  
 [\[Preparation\]](/uploads/cycle-prep.jpg)
 
-A sequence of mountains superimposing different weather times and conditions.    
+A sequence of mountains superimposing different weather times and conditions.  
 The day image has some leaked light from a card that was meant to block light (oops)
 
 ![](/uploads/view-1-f11-55cm.jpg)![](/uploads/view-2-f11-55cm.jpg)  
 Enlarger: f/11 @ 55cm  
+[More](../construction/view)
+
+  
 Multiple exposures from eight different mask/stencil layers.  
 The first image uses 1s exposures with all layers.  
 The second image uses a combination of 1s and 2s exposures with the layers

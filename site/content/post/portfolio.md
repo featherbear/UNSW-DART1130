@@ -25,7 +25,7 @@ Got 13 shades of grey
 Enlarger: 1s increments, f/11 @ 55cm  
 Got only 7 shades of grey, with the entire image dipping to black too quickly
 
-# 
+# Stationery (eh)
 
 ![](/uploads/material-test-1s-f8-55cm.jpg)  
 Enlarger: f/8 @ 55cm - multiple 1s exposures  
@@ -43,6 +43,8 @@ Out of accident the image positive and negative were physically moved, which cau
 
 Likened to _Man Ray_'s use of multiple exposures within a single image
 
+# Cycle
+
 ![](/uploads/cycle-f11-55cm.jpg)  
 Enlarger: f/11 @ 55cm  
 Day: 0.5s peak,1s BG, 3s left, 6s right  
@@ -54,6 +56,8 @@ Peace: 1.5s left, 2s right
 A sequence of mountains superimposing different weather times and conditions.  
 The day image has some leaked light from a card that was meant to block light (oops)
 
+# View
+
 ![](/uploads/view-1-f11-55cm.jpg)![](/uploads/view-2-f11-55cm.jpg)  
 Enlarger: f/11 @ 55cm  
 [More](../construction/view)
@@ -64,3 +68,18 @@ The first image uses 1s exposures with all layers.
 The second image uses a combination of 1s and 2s exposures with the layers
 
 Slight physical position offsets between layers have created an unexpected but pleasant outline and 3D depth in the image. A path from the mountaintop was also invariably created accidentally. Can be likened to Walead Beshty's images whose methods of procedure can be drawn through image detail (i.e. outlines)
+
+# Bounce
+
+![](/uploads/bounce-4s-8s-f16-55cm.jpg)  
+Enlarger: 4s/8s, f/16 @ 55cm
+
+A sequence of images on the same paper that portray a 'ball' bouncing.  
+Probably should have added some 'tweening' between the 'frames' with an external light or something...
+
+# Charge
+
+![](/uploads/charged-10s-f11-55cm.jpg)  
+Enlarger: 10s, f/11 @ 55cm
+
+Proof of concept idea, showing the sequence of a phone running out of power and 'fading' (through the use of another phone case), until it is connected to power (right)

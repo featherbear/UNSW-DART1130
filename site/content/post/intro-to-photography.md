@@ -2,7 +2,7 @@
 date = 2021-01-12T10:56:00Z
 hiddenFromHomePage = false
 postMetaInFooter = false
-title = "History of Photography"
+title = "Intro to Photography"
 [flowchartDiagrams]
 enable = false
 options = ""
@@ -30,5 +30,3 @@ Once exposed to light, the shape of the object is revealed.
 The proximity of the object to the paper creates sharper or softer outlines.  
 The transparency of the object and the amount of light used changes the intensity of the tones
 
-* Man Ray - multiple explosure
-* Walead Beshty - Outlines from the paper create depth

@@ -23,6 +23,7 @@ sequenceDiagrams:
 * Have my hand in the exposure
 * Object at different heights (this should affect diffusion + soft edges)
 * Multiple light sources
+* Newspaper
 
 ---
 
@@ -53,6 +54,12 @@ sequenceDiagrams:
 <!-- And within each idea there's different methods -->
 
 * Sequence of exposures to paint a single image (i.e. mountain)
+  * Get image
+  * Turn grey scale
+  * Adjust colour
+  * Split into layers
+  * Stencils of the negatives
+  * Apply per-layer exposures
 * Sequence of exposures in one (Day, night, rain, lightning)
 
 * Motion (i.e. something bouncing / spinning)

@@ -1,6 +1,5 @@
 +++
 date = 2021-01-12T10:56:00Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "History of Photography"

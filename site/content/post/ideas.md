@@ -25,6 +25,7 @@ sequenceDiagrams:
 * Multiple light sources
 * Newspaper
 * Partial developer exposure
+* Dodging and burning
 
 ---
 

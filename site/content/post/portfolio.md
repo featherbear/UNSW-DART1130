@@ -58,7 +58,10 @@ The day image has some leaked light from a card that was meant to block light (o
 
 # View
 
-![](/uploads/view-1-f11-55cm.jpg)![](/uploads/view-2-f11-55cm.jpg)  
+|Part 1|Part 2|
+|:----:|:----:|
+|![](/uploads/view-1-f11-55cm.jpg)|![](/uploads/view-2-f11-55cm.jpg)|
+
 Enlarger: f/11 @ 55cm  
 [More](../construction/view)
 

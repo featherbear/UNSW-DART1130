@@ -38,3 +38,5 @@ fields:
     name: options
     label: options
   hidden: true
+pages:
+- site/content/post/assessment-1-see-what-will-happen.md

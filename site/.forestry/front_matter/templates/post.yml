@@ -11,9 +11,11 @@ fields:
 - type: boolean
   name: hiddenFromHomePage
   label: hiddenFromHomePage
+  hidden: true
 - type: boolean
   name: postMetaInFooter
   label: postMetaInFooter
+  hidden: true
 - type: field_group
   name: flowchartDiagrams
   label: flowchartDiagrams
@@ -24,6 +26,7 @@ fields:
   - type: text
     name: options
     label: options
+  hidden: true
 - type: field_group
   name: sequenceDiagrams
   label: sequenceDiagrams
@@ -34,3 +37,4 @@ fields:
   - type: text
     name: options
     label: options
+  hidden: true

@@ -1,6 +1,5 @@
 +++
 date = 2021-01-12T11:34:29Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Portfolio"
@@ -31,8 +30,8 @@ Got only 7 shades of grey, with the entire image dipping to black too quickly
 ![](/uploads/material-test-1s-f8-55cm.jpg)  
 Enlarger: f/8 @ 55cm - multiple 1s exposures  
 Left: The plastic from the disposable lab coat  
-Right: Pens and scissors  
-  
+Right: Pens and scissors
+
 An opaque card was used to mask out the bottom left and top sections. After another 1s exposure, the dark section was formed
 
 # Mountains
@@ -40,4 +39,25 @@ An opaque card was used to mask out the bottom left and top sections. After anot
 ![](/uploads/mountain-test-f11-55cm.jpg)  
 Enlarger: f/11 @ 55cm  
 A test strip where multiple masked exposures were made on.  
-Out of accident the image positive and negative were physically moved, which caused the white sections of the mountain to form - However this yielded interesting results which created a heightened sense of 3D depth, apart from just tonal/shadow depth
+Out of accident the image positive and negative were physically moved, which caused the white sections of the mountain to form - However this yielded interesting results which created a heightened sense of 3D depth, apart from just tonal/shadow depth.
+
+Likened to _Man Ray_'s use of multiple exposures within a single image
+
+![](/uploads/cycle-f11-55cm.jpg)  
+Enlarger: f/11 @ 55cm  
+Day: 0.5s peak,1s BG, 3s left, 6s right  
+Night: 1s moon, 5s BG, 2s left, 3s right  
+Storm: 0s lightning, 5s BG, 2s left, 3s right  
+Peace: 1.5s left, 2s right  
+[\[Preparation\]](/uploads/cycle-prep.jpg)
+
+A sequence of mountains superimposing different weather times and conditions.    
+The day image has some leaked light from a card that was meant to block light (oops)
+
+![](/uploads/view-1-f11-55cm.jpg)![](/uploads/view-2-f11-55cm.jpg)  
+Enlarger: f/11 @ 55cm  
+Multiple exposures from eight different mask/stencil layers.  
+The first image uses 1s exposures with all layers.  
+The second image uses a combination of 1s and 2s exposures with the layers
+
+Slight physical position offsets between layers have created an unexpected but pleasant outline and 3D depth in the image. A path from the mountaintop was also invariably created accidentally. Can be likened to Walead Beshty's images whose methods of procedure can be drawn through image detail (i.e. outlines)

@@ -15,8 +15,8 @@ options = ""
 
 # Statement
 
-Sequence.  
-  
+Sequence
+
 a sequence of steps? a sequence in time?
 
 From how we attempt to understand the world, to how nature controls itself.  
@@ -24,15 +24,12 @@ From how we attempt to understand the world, to how nature controls itself.
 
 I have chosen 'sequence' as the central idea between my pieces of choice.
 
-· The first piece looks at the sequence of weather - of light, of dark, of rain, of peace.
+* The first piece looks at the sequence of weather - of light, of dark, of rain, of peace.
+* The second piece delves into the sequence of process, through artwork’s formation - multiple exposures of 8 different layer masks
+* The third piece resonates with the sequence of routine – a depleted phone in need of charging
+* The final piece freezes the sequence of time - a stop motion depiction of an object bouncing
 
-· The second piece delves into the sequence of process, through artwork’s formation - multiple exposures of 8 different layer masks
-
-· The third piece resonates with the sequence of routine – a depleted phone in need of charging
-
-· The final piece freezes the sequence of time - a stop motion depiction of an object bouncing
-
-I have taken inspiration from Man Ray, who incorporates the use of multiple exposures in their artworks. This incites depth and/or movement - variadic positioning pronouncing the layering of objects. Inspiration has also been drawn from Walead Beshty, who used the physical contours of their subject as a key element of the final artwork.
+I have taken inspiration from Man Ray, who incorporates the use of multiple exposures in their artworks. This incites depth and/or movement - variadic positioning pronouncing the layering of objects. Inspiration has also been drawn from Walead Beshty, who used the physical contours of the subject as a key element in the artwork.
 
 Along with these artistic influences, I have incorporated 'offsets' as the aspect of chance for this assignment - most noticeable in the mountain pieces, where each layer is not perfectly aligned with the other layers. This in turn forms outlined shadows that help to separate the depth of each layer from another.
 

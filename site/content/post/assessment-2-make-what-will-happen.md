@@ -23,8 +23,13 @@ Bathing the paper in solutions taken from the site
 Film camera superimposed on a camera
 
 Level - getting lower to the ground  
-Perspective -   
+Perspective -  
 Horizons
 
 Guitar pointing to the sun  
 Eyelevel
+
+Things that are not level
+
+* Photo of something that is no longer - photo in a photo
+* Light 

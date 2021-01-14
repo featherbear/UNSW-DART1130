@@ -1,23 +1,28 @@
 ---
-title: "Artists"
-date: 2021-01-13T09:45:46+11:00
-
+title: Artists
+date: 2021-01-13T09:45:46.000+11:00
 hiddenFromHomePage: false
 postMetaInFooter: false
-
 flowchartDiagrams:
   enable: false
-  options: ""
-
-sequenceDiagrams: 
+  options: ''
+sequenceDiagrams:
   enable: false
-  options: ""
+  options: ''
 
 ---
+# Man Ray
 
+Use of multiple exposures
 
-* Man Ray - multiple exposure
-* Walead Beshty - Outlines from the paper create depth
+Variadic light source positioning
+
+# Walead Beshty
+
+Used creases from the paper as part of the artwork itself.  
+Creates depth and 
+
+# Sarah Mosca
 
 # David Haines
 
@@ -43,4 +48,4 @@ Focus on the relationship between the material and the image.
 * Sunburnt images
 * Time
 
-![](2021-01-13-09-49-51.png) 
+![](2021-01-13-09-49-51.png)

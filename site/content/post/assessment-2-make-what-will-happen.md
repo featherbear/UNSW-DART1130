@@ -81,8 +81,7 @@ Identity
 * Long exposure of person inside crowd
   * At the front (face behind) (portrait)
   * Surrounded (facing in front) (landscape)
-
-\- Carpark, person alone
+* Carpark, person alone
 
 \- Fingerprint / signature / passport - denied
 

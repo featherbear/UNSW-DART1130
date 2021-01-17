@@ -95,5 +95,8 @@ Blind fold, or gaff tape, or a black cloth
 * Portrait with blind-fold
 * Behind the shoulder holding mirror facing face
 
+* Sillhoutte - dark on white circle on dark
+
+
 * Looking backwards
 * Hand in front of face looking up

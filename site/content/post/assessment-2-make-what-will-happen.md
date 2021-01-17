@@ -78,7 +78,9 @@ Chance
 
 Identity
 
-\- Few second exposure of people walking in a station, someone stationary - shoot portrait
+* Long exposure of person inside crowd
+  * At the front (portrait)
+  * Surrounded (landscape)
 
 \- Carpark, person alone
 
@@ -86,10 +88,12 @@ Identity
 
 \- Footprints on the sand....
 
-“I am not who you think I am; I am not who I think I am; I am who I think you think I am” - Thomas Cooley
+> “I am not who you think I am; I am not who I think I am; I am who I think you think I am” - Thomas Cooley
 
-GAFF TAPE
+Blind fold, or gaff tape, or a black cloth
 
-\* Front-on portrait 
+* Portrait with blind-fold
+* Behind the shoulder holding mirror facing face
 
-\* Mirror - shallow DOF
+* Looking backwards
+* Hand in front of face looking up

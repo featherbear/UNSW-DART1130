@@ -32,4 +32,64 @@ Eyelevel
 Things that are not level
 
 * Photo of something that is no longer - photo in a photo
-* Light 
+* Light
+
+Deconstructed
+
+Shadows splitting things
+
+Carpark
+
+Light shining towards camera
+
+== Sara Oscar
+
+Identity
+
+\-> Mirror covering the face
+
+\-> Finger print
+
+\-> Hoodie
+
+Blur
+
+Tacia Dean - green ray
+
+System based - 
+
+\* Speed, aperture, bracketing, focus
+
+___
+
+Instruction
+
+Performance
+
+Chance
+
+== Techniques
+
+\* Long exposure
+
+== Effects
+
+\* Mirror
+
+Identity
+
+\- Few second exposure of people walking in a station, someone stationary - shoot portrait
+
+\- Carpark, person alone
+
+\- Fingerprint / signature / passport - denied
+
+\- Footprints on the sand....
+
+“I am not who you think I am; I am not who I think I am; I am who I think you think I am” - Thomas Cooley
+
+GAFF TAPE
+
+\* Front-on portrait 
+
+\* Mirror - shallow DOF

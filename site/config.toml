@@ -41,15 +41,10 @@ copyright = "Andrew Wong (z5206677)"
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "GitHub"
+  name = "Works"
   weight = 20
-  identifier = "code"
-  url = "https://github.com/featherbear/UNSW-DART1130"
-[[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
+  identifier = "works
+  url = "/post/portfolio/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update

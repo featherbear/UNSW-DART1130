@@ -43,7 +43,7 @@ copyright = "Andrew Wong (z5206677)"
 [[menu.main]]
   name = "Works"
   weight = 20
-  identifier = "works
+  identifier = "works"
   url = "/post/portfolio/"
 
 [params]

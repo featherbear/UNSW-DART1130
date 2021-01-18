@@ -93,6 +93,7 @@ Proof of concept idea, showing the sequence of a phone running out of power and 
 ![](/uploads/contact-2-f8-10s.jpg)
 
 |Exposure|Aperture|Shutter Speed (s)|
+|:---:|:---:|:---:|
 |1|f/5.6|1/125|
 |2|f/16|1/2|
 |3|f/16|1/2|

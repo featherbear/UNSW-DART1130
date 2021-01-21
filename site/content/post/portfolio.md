@@ -99,6 +99,15 @@ In terms of usability, it may be hard to use because the entire page would have 
 
 ![](/uploads/contact-1-f8-14s.jpg)
 
+## Exposure 25 - Cat
+
+![](/uploads/cat-f2-8-125-dev-f8-14s.jpg)  
+SLR: f/2.8 1/125s ISO 400  
+Enlarger: 14s, f/8
+
+Campus cats!  
+  
+  
 ![](/uploads/contact-2-f8-10s.jpg)
 
 | Exposure | Aperture | Shutter Speed (s) |
@@ -153,11 +162,3 @@ Left too light, right too dark
 ![](/uploads/f11-4s-3s-11cm-c2-5.jpg)  
 Enlarger: f/11 4" & 3" @ 11cm, Contrast 2.5  
 Left side good, right side too light? Maybe use 4"
-
-# Cat
-
-![](/uploads/cat-f2-8-125-dev-f8-14s.jpg)  
-SLR: f/2.8 1/125s ISO 400  
-Enlarger: 14s, f/8
-
-Campus cats!

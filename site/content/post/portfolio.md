@@ -95,6 +95,26 @@ Proof of concept idea, showing the sequence of a phone running out of power and 
 Splashed some of the developer solution onto the RC paper.  
 In terms of usability, it may be hard to use because the entire page would have to be exposed. However perhaps I can use this technique on a face portrait?
 
+# Night Photography
+
+(But with a digital camera, because film is expensive!)
+
+![](/uploads/0t4a0992.JPG)  
+68mm, f/5, 4", ISO 500
+
+  
+![](/uploads/0t4a0993.JPG)  
+35mm, f/4, 1", ISO 400  
+This one is sorta like, reaching out to the light
+
+![](/uploads/0t4a1008.JPG)![](/uploads/0t4a1011.JPG)  
+73mm, f/14, 8", ISO 400
+
+For the second photo, I ran into the shot halfway during the exposure
+
+![](/uploads/0t4a1029.JPG)![](/uploads/0t4a1030.JPG)  
+73mm, f/8, 4", ISO 400
+
 # Film Rolls
 
 ![](/uploads/contact-1-f8-14s.jpg)
@@ -105,9 +125,8 @@ In terms of usability, it may be hard to use because the entire page would have 
 SLR: f/2.8 1/125s ISO 400  
 Enlarger: 14s, f/8
 
-Campus cats!  
-  
-  
+Campus cats!
+
 ![](/uploads/contact-2-f8-10s.jpg)
 
 | Exposure | Aperture | Shutter Speed (s) |

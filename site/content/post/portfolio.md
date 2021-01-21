@@ -86,28 +86,73 @@ Enlarger: 10s, f/11 @ 55cm
 
 Proof of concept idea, showing the sequence of a phone running out of power and 'fading' (through the use of another phone case), until it is connected to power (right)
 
+***
+
+# Developer Drip
+
+![](/uploads/developer-drip-bw.jpg)![](/uploads/developer-drip-colour.jpg)
+
+Splashed some of the developer solution onto the RC paper.  
+In terms of usability, it may be hard to use because the entire page would have to be exposed. However perhaps I can use this technique on a face portrait?
+
 # Film Rolls
 
 ![](/uploads/contact-1-f8-14s.jpg)
 
 ![](/uploads/contact-2-f8-10s.jpg)
 
-|Exposure|Aperture|Shutter Speed (s)|
-|:---:|:---:|:---:|
-|1|f/5.6|1/125|
-|2|f/16|1/2|
-|3|f/16|1/2|
-|4|f/16|1"|
-|5|f/16|1"|
-|6|f/16|1"|
-|7|f/16|1"|
-|8|f/3.5|1/60|
-|9|f/3.5|1/30|
-|10|f/3.5|1/30|
-|11|f/3.5|1/60|
-|12|-|-|
-|13|f/3.5|1/4|
-|14|f/3.5|1/4|
+| Exposure | Aperture | Shutter Speed (s) |
+| :---: | :---: | :---: |
+| 1 | f/5.6 | 1/125 |
+| 2 | f/16 | 1/2 |
+| 3 | f/16 | 1/2 |
+| 4 | f/16 | 1" |
+| 5 | f/16 | 1" |
+| 6 | f/16 | 1" |
+| 7 | f/16 | 1" |
+| 8 | f/3.5 | 1/60 |
+| 9 | f/3.5 | 1/30 |
+| 10 | f/3.5 | 1/30 |
+| 11 | f/3.5 | 1/60 |
+| 12 | - | - |
+| 13 | f/3.5 | 1/4 |
+| 14 | f/3.5 | 1/4 |
+
+## Double Exposure 3 & 4
+
+![](/uploads/f11-3s-2s-11cm-c2-5.jpg)
+
+Enlarger: f/11 3" & 2" @ 11cm, Contrast 2.5
+
+Can expose for longer, to darken the background
+
+## Exposure 11
+
+![](/uploads/f11-5s-11cm-c2-5-ii.jpg)
+
+## Exposure 12
+
+![](/uploads/f11-5s-11cm-c1-5.jpg)  
+Enlarger: f/11 5" @ 11cm, Contrast 1.5  
+Too light
+
+![](/uploads/f11-5s-11cm-c2-5.jpg)  
+Enlarger: f/11 5" @ 11cm, Contrast 2.5  
+Better
+
+![](/uploads/f8-5s-11cm-c2-5.jpg)  
+Enlarger: f/8 5" @ 11cm, Contrast 2.5  
+Too dark
+
+## Double Exposure 11 & 12
+
+![](/uploads/f11-3s-5s-11cm-c2-5.jpg)  
+Enlarger: f/11 3" & 5" @ 11cm, Contrast 2.5  
+Left too light, right too dark
+
+![](/uploads/f11-4s-3s-11cm-c2-5.jpg)  
+Enlarger: f/11 4" & 3" @ 11cm, Contrast 2.5  
+Left side good, right side too light? Maybe use 4"
 
 # Cat
 

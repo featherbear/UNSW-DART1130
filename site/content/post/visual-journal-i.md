@@ -3,7 +3,7 @@ date = 2021-01-18T13:20:32Z
 draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
-title = "Visual Journal (I)"
+title = "Visual Journal (II)"
 [flowchartDiagrams]
 enable = false
 options = ""

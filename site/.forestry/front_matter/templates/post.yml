@@ -40,6 +40,7 @@ fields:
     label: options
   hidden: true
 pages:
+- site/content/post/adventure-log.md
 - site/content/post/assessment-1-see-what-will-happen.md
 - site/content/post/assessment-2-make-what-will-happen.md
 - site/content/post/portfolio.md

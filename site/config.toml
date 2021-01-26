@@ -1,5 +1,4 @@
-baseurl = ""
-relativeUrls = true
+baseurl = "https://featherbear.cc/UNSW-DART1130/"
 
 DefaultContentLanguage = "en"
 

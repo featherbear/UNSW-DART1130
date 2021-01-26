@@ -99,15 +99,16 @@ In terms of usability, it may be hard to use because the entire page would have 
 
 (But with a digital camera, because film is expensive!)
 
-![](/uploads/0t4a0992.JPG)  
+![](/uploads/0t4a0988_dxo.jpg)
+
+![](/uploads/0t4a0992.JPG)![](/uploads/0t4a0992_dxo.jpg)  
 68mm, f/5, 4", ISO 500
 
-  
 ![](/uploads/0t4a0993.JPG)  
 35mm, f/4, 1", ISO 400  
 This one is sorta like, reaching out to the light
 
-![](/uploads/0t4a1008.JPG)![](/uploads/0t4a1011.JPG)  
+![](/uploads/0t4a1009_dxo.jpg)![](/uploads/0t4a1011_dxo.jpg)  
 73mm, f/14, 8", ISO 400
 
 For the second photo, I ran into the shot halfway during the exposure

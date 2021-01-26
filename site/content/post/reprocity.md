@@ -1,6 +1,5 @@
 +++
 date = 2021-01-26T01:33:44Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Reprocity"

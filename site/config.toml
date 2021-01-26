@@ -1,3 +1,5 @@
+baseUrl = "http://192.168.0.17:8080/public"
+abaseUrl = "https://featherbear.cc/UNSW-DART1130"
 relativeUrls = true
 
 DefaultContentLanguage = "en"
@@ -43,7 +45,7 @@ googleAnalytics = "UA-107434487-2"
 
 [[menu.main]]
     name = "Home"
-    url = ""
+    url = "/"
     weight = 1
 
 [[menu.main]]

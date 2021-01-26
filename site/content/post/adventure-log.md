@@ -2,7 +2,7 @@
 date = 2021-01-26T01:14:14Z
 hiddenFromHomePage = false
 postMetaInFooter = false
-title = "Adventure Log"
+title = "Adventure Log / Outtakes"
 [flowchartDiagrams]
 enable = false
 options = ""

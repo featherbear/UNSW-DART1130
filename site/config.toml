@@ -44,15 +44,15 @@ googleAnalytics = "UA-107434487-2"
 
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "https://featherbear.cc/UNSW-DART1130"
     weight = 1
 
 [[menu.main]]
     name = "Works"
-    url = "/post/portfolio"
+    url = "https://featherbear.cc/UNSW-DART1130/post/portfolio"
     weight = 2
 
 [[menu.main]]
     name = "Adventure Log"
-    url = "/post/adventure-log"
+    url = "https://featherbear.cc/UNSW-DART1130/post/adventure-log"
     weight = 3

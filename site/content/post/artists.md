@@ -13,14 +13,11 @@ sequenceDiagrams:
 ---
 # Man Ray
 
-Use of multiple exposures
-
-Variadic light source positioning
+Man Ray combines multiple exposures together to produce a complex and intricate image. He uses variadic light sources (changing their position) as well as the effects of casted shadows to further create depth and a sense of 3D-ness
 
 # Walead Beshty
 
-Used creases from the paper as part of the artwork itself.  
-Creates depth and 
+Walead used the physical attributes of his photograms as core components of the artwork itself. For example, he uses the creases of the paper in the photogram to create depth, and he focuses on the relationship between the material and the image.
 
 # Sarah Mosca
 
@@ -35,17 +32,20 @@ Creates depth and
 
 Noumenon Range - Synthetic landscape
 
-# Walead Beshty
-
-Focus on the relationship between the material and the image.
-
 # Adam Fuss
+
+Adam uses creative masking techniques to superimpose shapes and outlines on a subject, having the texture of the background
 
 ![](2021-01-13-09-41-34.png)
 
 # Chris McCaw
 
-* Sunburnt images
-* Time
+Chris' series of "solar images" long-expose the sun to follow its movement, which creates a 'sunburnt trail'. To me though it doesn't really bring out much about the 'time factor' that it was meant to produce.
 
 ![](2021-01-13-09-49-51.png)
+
+# Simon Terrill
+
+Simon has several long-exposure photo series that make use of both stationary and moving objects to freeze certain objects; creating a layering between foreground and background
+
+![](/uploads/snipaste_2021-01-26_17-32-43.png)

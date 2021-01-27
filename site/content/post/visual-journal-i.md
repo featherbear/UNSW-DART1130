@@ -82,6 +82,8 @@ Blind fold, or gaff tape, or a black cloth
 * Looking backwards
 * Hand in front of face looking up
 
+TODO: Artists
+
 # Contact Sheets
 
 ![](/uploads/contact-1-f8-14s.jpg)  
@@ -90,7 +92,8 @@ Blind fold, or gaff tape, or a black cloth
 
 # Printing
 
-TODO: Artists
+![](/uploads/f8-10s-15s-29cm-1.jpg)![](/uploads/f8-10s-15s-29cm-2.jpg)  
+f/8 10",15" @ 29cm - abit hard to use.
 
 ## Vision
 

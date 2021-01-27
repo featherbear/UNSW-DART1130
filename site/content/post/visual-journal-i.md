@@ -1,6 +1,5 @@
 +++
 date = 2021-01-18T13:20:32Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Visual Journal (II)"
@@ -14,7 +13,13 @@ options = ""
 +++
 > Visual Journal (I) was never made btw.
 
-TODO: Insert film scans
+# Contact Sheets
+
+![](/uploads/contact-1-f8-14s.jpg)  
+![](/uploads/contact-2-f8-10s.jpg)  
+![](/uploads/contact-3-f8-20s-10s-38cm.jpg)
+
+# Printing
 
 TODO: Artists
 

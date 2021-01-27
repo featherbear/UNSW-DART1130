@@ -13,6 +13,75 @@ options = ""
 +++
 > Visual Journal (I) was never made btw.
 
+# Ideas
+
+* How a camera mediates, but also displaces the world
+* Analogue techniques
+* Contact printing
+* Bathing the paper in solutions taken from the site
+* Film camera superimposed on a camera
+* Level - getting lower to the ground
+  * Things that are not level
+* Photo of something that is no longer - photo in a photo
+* Light
+* Deconstructed
+* Shadows splitting things
+  * Carpark
+* Light shining towards camera
+
+== Sara Oscar
+
+Identity
+
+\-> Mirror covering the face
+
+\-> Finger print
+
+\-> Hoodie
+
+Blur
+
+System based -
+
+\* Speed, aperture, bracketing, focus
+
+***
+
+Instruction
+
+Performance
+
+Chance
+
+== Techniques
+
+\* Long exposure
+
+== Effects
+
+\* Mirror
+
+Identity
+
+* Long exposure of person inside crowd
+  * At the front (face behind) (portrait)
+  * Surrounded (facing in front) (landscape)
+* Carpark, person alone
+
+\- Fingerprint / signature / passport - denied
+
+\- Footprints on the sand....
+
+> “I am not who you think I am; I am not who I think I am; I am who I think you think I am” - Thomas Cooley
+
+Blind fold, or gaff tape, or a black cloth
+
+* Portrait with blind-fold
+* Behind the shoulder holding mirror facing face
+* Sillhoutte - dark on white circle on dark
+* Looking backwards
+* Hand in front of face looking up
+
 # Contact Sheets
 
 ![](/uploads/contact-1-f8-14s.jpg)  
@@ -84,7 +153,7 @@ f/5.6 5" 23cm C3
 f/5.6 5.2" 43cm C2.5 - too dark
 
 ![](/uploads/f5-6-8-5s-43cm-c2-5.jpg)  
- f/5.6 8.5" 43cm C2.5
+f/5.6 8.5" 43cm C2.5
 
 ***
 

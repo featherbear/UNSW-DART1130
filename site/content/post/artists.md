@@ -21,6 +21,10 @@ Walead used the physical attributes of his photograms as core components of the 
 
 # Sarah Mosca
 
+# Tacia Dean
+
+Green Ray video
+
 # David Haines
 
 * Kirlian cameras
@@ -49,3 +53,7 @@ Chris' series of "solar images" long-expose the sun to follow its movement, whic
 Simon has several long-exposure photo series that make use of both stationary and moving objects to freeze certain objects; creating a layering between foreground and background
 
 ![](/uploads/snipaste_2021-01-26_17-32-43.png)
+
+# Sara Oscar
+
+Uses the idea of mirrors to displace what is in the foreground - revealing another perspective of the environment through the camera

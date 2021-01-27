@@ -155,7 +155,11 @@ Enlarger: f/11 3" & 2" @ 11cm, Contrast 2.5
 
 Can expose for longer, to darken the background
 
-## Exposure 13
+## Exposures 11 & 12 - Vision
+
+TODO
+
+## Exposure 13 - Reflection
 
 ![](/uploads/f5-6-8-5s-43cm-c2-5.jpg)  
 Enlarger: f/5.6 8.5" @ 43cm, Contrast 2.5
@@ -174,3 +178,17 @@ Enlarger: f/5.6 8.5" @ 43cm, Contrast 2.5
 14 - f10 125  
 15 - f2.8 2000  
 16,17 f/2.8 1000
+
+## Multiple Exposures 4-7 - Trapped
+
+![](/uploads/f5-6-3x1-25-26cm-c2-5.jpg)  
+Enlarger: f/5.6 3x1.25" @ 26cm, Contrast 2.5
+
+  
+![](/uploads/f5-6-4x0-6s-26cm-c2-5.jpg)  
+Enlarger: f/5.6 4x0.6" @ 26cm, Contrast 2.5
+
+## Exposures 16 & 17 - Reality
+
+![](/uploads/f5-6-5s-23cm-c3.jpg)  
+Enlarger: f/5.6 5" @ 23cm, Contrast 3

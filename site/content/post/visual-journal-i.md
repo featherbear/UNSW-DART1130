@@ -148,6 +148,9 @@ f/11 5" 9cm
 ![](/uploads/f5-6-5s-23cm-c3.jpg)  
 f/5.6 5" 23cm C3
 
+![](/uploads/0t4a1513_dxo.jpg)  
+Digital test shot
+
 ***
 
 ## Reflection
@@ -157,6 +160,9 @@ f/5.6 5.2" 43cm C2.5 - too dark
 
 ![](/uploads/f5-6-8-5s-43cm-c2-5.jpg)  
 f/5.6 8.5" 43cm C2.5
+
+![](/uploads/0t4a0961_dxo.jpg)  
+Digital test shot
 
 ***
 

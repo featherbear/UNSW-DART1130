@@ -73,8 +73,30 @@ f/5.6 5" 23cm C3
 
 ***
 
+## Reflection
+
 ![](/uploads/f5-6-5-2s-43cm-c2-5.jpg)  
 f/5.6 5.2" 43cm C2.5 - too dark
 
 ![](/uploads/f5-6-8-5s-43cm-c2-5.jpg)  
  f/5.6 8.5" 43cm C2.5
+
+***
+
+## Trapped
+
+![](/uploads/f11-5s-23cm-c00.jpg)
+
+f/11 5" 23cm C00 - too light
+
+![](/uploads/f8-5s-23cm-c1.jpg)  
+f/8 5" 23cm C1 - getting better
+
+![](/uploads/f5-6-23cm-5s-c2-5.jpg)  
+f/5.6 5" 23cm C2.5 - better detail, I like the shadows
+
+![](/uploads/f5-6-5s-23cm-c2-5.jpg)  
+f/2.8 5" 23cm C2.5 - too dark
+
+![](/uploads/f5-6-fx1s-c2-5.jpg)  
+Multiple exposure test. f/5.6" 3x1" C2.5

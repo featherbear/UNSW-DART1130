@@ -101,7 +101,7 @@ In terms of usability, it may be hard to use because the entire page would have 
 
 ![](/uploads/night/0t4a0988_dxo.jpg)
 
-![](/uploads/night/0t4a0992.JPG)![](/uploads/night/0t4a0992_dxo.jpg)  
+![](/uploads/night/0t4a0992.JPG)  
 68mm, f/5, 4", ISO 500
 
 ![](/uploads/night/0t4a0993.JPG)  
@@ -113,7 +113,7 @@ This one is sorta like, reaching out to the light
 
 For the second photo, I ran into the shot halfway during the exposure
 
-![](/uploads/night/0t4a1029.JPG)![](/uploads/night/0t4a1030.JPG)  
+![](/uploads/night/0t4a1029.JPG)  
 73mm, f/8, 4", ISO 400
 
 # Film Rolls
@@ -155,30 +155,22 @@ Enlarger: f/11 3" & 2" @ 11cm, Contrast 2.5
 
 Can expose for longer, to darken the background
 
-## Exposure 11
+## Exposure 13
 
-![](/uploads/vision/f11-5s-11cm-c2-5-ii.jpg)
+![](/uploads/f5-6-8-5s-43cm-c2-5.jpg)  
+Enlarger: f/5.6 8.5" @ 43cm, Contrast 2.5
 
-## Exposure 12
+![](/uploads/contact-3-f8-20s-10s-38cm.jpg)
 
-![](/uploads/vision/f11-5s-11cm-c1-5.jpg)  
-Enlarger: f/11 5" @ 11cm, Contrast 1.5  
-Too light
+{insert exposures}
 
-![](/uploads/vision/f11-5s-11cm-c2-5.jpg)  
-Enlarger: f/11 5" @ 11cm, Contrast 2.5  
-Better
-
-![](/uploads/vision/f8-5s-11cm-c2-5.jpg)  
-Enlarger: f/8 5" @ 11cm, Contrast 2.5  
-Too dark
-
-## Double Exposure 11 & 12
-
-![](/uploads/vision/f11-3s-5s-11cm-c2-5.jpg)  
-Enlarger: f/11 3" & 5" @ 11cm, Contrast 2.5  
-Left too light, right too dark
-
-![](/uploads/vision/f11-4s-3s-11cm-c2-5.jpg)  
-Enlarger: f/11 4" & 3" @ 11cm, Contrast 2.5  
-Left side good, right side too light? Maybe use 4"
+0\. f/8 4"  
+1\. f/5.6 4"  
+... f5.6 30  
+10 f4 125  
+11 - f4 250  
+12 - f10 250  
+13 - f10 250  
+14 - f10 125  
+15 - f2.8 2000  
+16,17 f/2.8 1000

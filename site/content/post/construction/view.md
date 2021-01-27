@@ -13,29 +13,29 @@ options = ""
 +++
 First I searched for a vector image of a mountain
 
-![](/uploads/mountain-lake-sunset-landscape-first-person-view.jpg)  
+![](/uploads/view/mountain-lake-sunset-landscape-first-person-view.jpg)  
 ([Mountain Vectors](https://www.vecteezy.com/vector-art/246312-mountain-lake-sunset-landscape-first-person-view) by Vecteezy)
 
 I then opened the image in Illustrator and changed all the colours to greyscale (removing the gradients). I then cleaned up the image, removing some extra trees, deleting some anchor points, and reordering some components.
 
-![](/uploads/mountains.png)  
+![](/uploads/view/mountains.png)  
 After, I split the image into different layers, based on their lightness
 
-![](/uploads/mountains-artboard.png)  
+![](/uploads/view/mountains-artboard.png)  
 I then printed out each layer and cut out the masked sections.
 
-![](/uploads/0t4a0870.JPG)
+![](/uploads/view/0t4a0870.JPG)
 
-![](/uploads/20210112_153507.jpg)  ![](/uploads/20210112_115203.jpg)
+![](/uploads/view/20210112_153507.jpg)  ![](/uploads/view/20210112_115203.jpg)
 
 Each layer could then be placed over the RC paper one at a time, and exposed.
 
-![](/uploads/view-1-f11-55cm.jpg)  
+![](/uploads/view/view-1-f11-55cm.jpg)  
 Enlarger: f/11 @ 55cm
 
 At first, I exposed every layer for only 1 second - which resulted in the final image turning out a bit pale, so I redid the image, being more generous with the exposure times
 
-![](/uploads/view-2-f11-55cm.jpg)  
+![](/uploads/view/view-2-f11-55cm.jpg)  
 Enlarger: f/11 @ 55cm  
 With this image, I exposed different layers for different durations.  
 This created more contrast between the landscape.

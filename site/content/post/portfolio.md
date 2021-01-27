@@ -13,15 +13,15 @@ options = ""
 +++
 # Tone Cards
 
-![](/uploads/tone-card-1s-f11-55cm.jpg)  
+![](/uploads/tone-cards/tone-card-1s-f11-55cm.jpg)  
 Enlarger: 1s increments, f/11 @ 55cm  
 Got 9 shades of grey. Probably 10s for max exposure
 
-![](/uploads/tone-card-0-5s-f11-55cm.jpg)  
+![](/uploads/tone-cards/tone-card-0-5s-f11-55cm.jpg)  
 Enlarger: 0.5s increments, f/11 @ 55cm  
 Got 13 shades of grey
 
-![](/uploads/tone-card-test-1s-f11-55cm.jpg)  
+![](/uploads/tone-cards/tone-card-test-1s-f11-55cm.jpg)  
 Enlarger: 1s increments, f/11 @ 55cm  
 Got only 7 shades of grey, with the entire image dipping to black too quickly
 
@@ -45,13 +45,13 @@ Likened to _Man Ray_'s use of multiple exposures within a single image
 
 # Cycle
 
-![](/uploads/cycle-f11-55cm.jpg)  
+![](/uploads/cycle/cycle-f11-55cm.jpg)  
 Enlarger: f/11 @ 55cm  
 Day: 0.5s peak,1s BG, 3s left, 6s right  
 Night: 1s moon, 5s BG, 2s left, 3s right  
 Storm: 0s lightning, 5s BG, 2s left, 3s right  
 Peace: 1.5s left, 2s right  
-[\[Preparation\]](/uploads/cycle-prep.jpg)
+[\[Preparation\]](/uploads/cycle/cycle-prep.jpg)
 
 A sequence of mountains superimposing different weather times and conditions.  
 The day image has some leaked light from a card that was meant to block light (oops)
@@ -99,20 +99,20 @@ In terms of usability, it may be hard to use because the entire page would have 
 
 (But with a digital camera, because film is expensive!)
 
-![](/uploads/0t4a0992.JPG)  
+![](/uploads/night/0t4a0992.JPG)  
 68mm, f/5, 4", ISO 500
 
   
-![](/uploads/0t4a0993.JPG)  
+![](/uploads/night/0t4a0993.JPG)  
 35mm, f/4, 1", ISO 400  
 This one is sorta like, reaching out to the light
 
-![](/uploads/0t4a1008.JPG)![](/uploads/0t4a1011.JPG)  
+![](/uploads/night/0t4a1008.JPG)![](/uploads/night/0t4a1011.JPG)  
 73mm, f/14, 8", ISO 400
 
 For the second photo, I ran into the shot halfway during the exposure
 
-![](/uploads/0t4a1029.JPG)![](/uploads/0t4a1030.JPG)  
+![](/uploads/night/0t4a1029.JPG)![](/uploads/night/0t4a1030.JPG)  
 73mm, f/8, 4", ISO 400
 
 # Film Rolls
@@ -156,28 +156,28 @@ Can expose for longer, to darken the background
 
 ## Exposure 11
 
-![](/uploads/f11-5s-11cm-c2-5-ii.jpg)
+![](/uploads/vision/f11-5s-11cm-c2-5-ii.jpg)
 
 ## Exposure 12
 
-![](/uploads/f11-5s-11cm-c1-5.jpg)  
+![](/uploads/vision/f11-5s-11cm-c1-5.jpg)  
 Enlarger: f/11 5" @ 11cm, Contrast 1.5  
 Too light
 
-![](/uploads/f11-5s-11cm-c2-5.jpg)  
+![](/uploads/vision/f11-5s-11cm-c2-5.jpg)  
 Enlarger: f/11 5" @ 11cm, Contrast 2.5  
 Better
 
-![](/uploads/f8-5s-11cm-c2-5.jpg)  
+![](/uploads/vision/f8-5s-11cm-c2-5.jpg)  
 Enlarger: f/8 5" @ 11cm, Contrast 2.5  
 Too dark
 
 ## Double Exposure 11 & 12
 
-![](/uploads/f11-3s-5s-11cm-c2-5.jpg)  
+![](/uploads/vision/f11-3s-5s-11cm-c2-5.jpg)  
 Enlarger: f/11 3" & 5" @ 11cm, Contrast 2.5  
 Left too light, right too dark
 
-![](/uploads/f11-4s-3s-11cm-c2-5.jpg)  
+![](/uploads/vision/f11-4s-3s-11cm-c2-5.jpg)  
 Enlarger: f/11 4" & 3" @ 11cm, Contrast 2.5  
 Left side good, right side too light? Maybe use 4"

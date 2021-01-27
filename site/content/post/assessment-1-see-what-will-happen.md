@@ -35,11 +35,11 @@ Along with these artistic influences, I have incorporated 'offsets' as the aspec
 
 # Piece 1
 
-![](/uploads/cycle-f11-55cm.jpg)
+![](/uploads/cycle/cycle-f11-55cm.jpg)
 
 # Piece 2
 
-![](/uploads/view-1-f11-55cm.jpg)![](/uploads/view-2-f11-55cm.jpg)
+![](/uploads/view/view-1-f11-55cm.jpg)![](/uploads/view/view-2-f11-55cm.jpg)
 
 # Piece 4
 

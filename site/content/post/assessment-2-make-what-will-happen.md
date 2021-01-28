@@ -29,7 +29,7 @@ Journal -** [**Click here**](../visual-journal-i/)
 
 > _"Am I still me?"_
 
-Combination of two exposures
+Combination of two exposures, each independently exposed on half the page
 
 ***
 
@@ -58,14 +58,22 @@ Combination of two exposures
 
 > _"The world below me sings of the same whistles and chimes"_
 
+Combination of two exposures, each exposed on one half of the page
+
 ## Piece 6 - Trapped
 
 ![](/uploads/f5-6-4x0-6s-26cm-c2-5.jpg)
 
 > _“Are these four walls bored of me?”_
 
+Multiple exposure of 4 photos
+
 ## Piece 7 - Caged
 
 ![](/uploads/f4-8s-c3.jpg)
 
 > _"This so home of mine, O how I wish to be trapped in civilisation"_
+
+Exposed the borders after partial development to create a non-uniform texture that emulates the dirtyness of the gates
+
+***

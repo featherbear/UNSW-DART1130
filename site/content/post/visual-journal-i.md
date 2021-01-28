@@ -171,6 +171,10 @@ f4 5s,10s 50cm
 
 f4 9s c1.5
 
+![](/uploads/scn_0003.jpg)  
+![](/uploads/f4-9s-80cm-c1-5.jpg)  
+f/4 9s @ 80cm, Contrast 1.5
+
 ***
 
 ![](/uploads/0t4a0961_dxo.jpg)  
@@ -207,4 +211,8 @@ Final: f/4 5s @ 42cm
 
 ## Trapped
 
-![](/uploads/f4-1s-fog-5s-42cm-c3.jpg)
+![](/uploads/f4-1s-fog-5s-42cm-c3.jpg)  
+f/4 1s fog,5s 42cm c3
+
+![](/uploads/f4-8s-c3.jpg)  
+f/4 8s c3

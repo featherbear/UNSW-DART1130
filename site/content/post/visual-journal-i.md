@@ -11,8 +11,6 @@ enable = false
 options = ""
 
 +++
-> Visual Journal (I) was never made btw.
-
 # Ideas
 
 * How a camera mediates, but also displaces the world
@@ -93,7 +91,7 @@ TODO: Artists
 # Printing
 
 ![](/uploads/f8-10s-15s-29cm-1.jpg)![](/uploads/f8-10s-15s-29cm-2.jpg)  
-f/8 10",15" @ 29cm - abit hard to use.
+f/8 10",15" @ 29cm - the background makes the exposure a bit hard to use. Even after different contrast filters, the background stands out too much.
 
 ## Vision
 
@@ -120,7 +118,7 @@ Enlarger: f/11 4" & 3" @ 11cm, Contrast 2.5
 Left side good, right side too light? Maybe use 4"
 
 ![](/uploads/f5-6-8s-10s-12s-42cm.jpg)  
-f/5.6 8s,10s,12s 42cm
+f/5.6 8s / 10s / 12s @ 42cm
 
 ![](/uploads/f8-10s-f5-6-5s-f11-5s-f8-5s.jpg)  
 f/8,10s f/5.6,5s f/11,5s f/8,5s
@@ -129,18 +127,24 @@ f/8,10s f/5.6,5s f/11,5s f/8,5s
 f/5.6 6s,12s 42cm C2.5
 
 ![](/uploads/f5-6-6s-12s-42cm-c2-5-_2.jpg)  
-f/5.6 6s,12s 42cm C2.5
+f/5.6 6s,12s @ 42cm, C2.5
 
 ![](/uploads/f5-6-6s-12s-42cm.jpg)  
-f5.6 6s,12s 42cm
+f5.6 6s,12s 42cm  
+This one turned out pretty well, par the light leak in the middle of the photo - the two halves are moreorless aligned
 
 ![](/uploads/f5-6-12s-42cm.jpg)  
-f5.6 12s 42cm
+f/5.6 12s 42cm  
+The heads are abit misaligned, but the centre division is better. Could be better
 
 ![](/uploads/f5-6-12s-42cm-c1-5.jpg)  
-f5.6 12s 42cm c1.5
+f/5.6 12s 42cm C1.5  
+Tried flipping the film so that the left side image could have more detail. Face ended up squashed horizontally. Centre division is much better though
 
 ## Reality
+
+![](/uploads/0t4a1513_dxo.jpg)  
+Digital test shot
 
 ![](/uploads/f11-2s-7cm.jpg)  
 f/11 2" 7cm - Too light
@@ -152,23 +156,23 @@ f/11 5" 7cm - Better tones than the previous
 f/8 5" 23cm - Enlarged the print area to prepare for the final print
 
 ![](/uploads/f11-5s-9cm.jpg)  
-f/11 5" 9cm
+f/11 5" 9cm  
+Preparation before merge
 
 ![](/uploads/f5-6-5s-23cm-c3.jpg)  
-f/5.6 5" 23cm C3
-
-![](/uploads/0t4a1513_dxo.jpg)  
-Digital test shot
+f/5.6 5" @ 23cm, C3  
+Final print
 
 ***
 
 ## Reflection
 
 ![](/uploads/f5-6-5-2s-43cm-c2-5.jpg)  
-f/5.6 5.2" 43cm C2.5 - too dark
+f/5.6 5.2" @ 43cm C2.5  
+too light
 
 ![](/uploads/f5-6-8-5s-43cm-c2-5.jpg)  
-f/5.6 8.5" 43cm C2.5
+f/5.6 8.5" @ 43cm C2.5
 
 ## Self
 
@@ -207,7 +211,9 @@ f/5.6 5" 23cm C2.5 - better detail, I like the shadows
 f/2.8 5" 23cm C2.5 - too dark
 
 ![](/uploads/f5-6-fx1s-c2-5.jpg)  
-Multiple exposure test. f/5.6" 3x1" C2.5
+f/5.6" 3x1" C2.5  
+Multiple exposure test. Hard to see the subject from the multiple exposures.  
+![](/uploads/f5-6-4x0-6s-26cm-c2-5.jpg)
 
 ## Concealed
 
@@ -221,7 +227,12 @@ Final: f/4 5s @ 42cm
 ## Trapped
 
 ![](/uploads/f4-1s-fog-5s-42cm-c3.jpg)  
-f/4 1s fog,5s 42cm c3
+f/4 1s fog, 5s exposure @ 42cm c3  
+Abit too flat, would like some more contrast
 
 ![](/uploads/f4-8s-c3.jpg)  
-f/4 8s c3
+f/4 3s fog, 8s @ 42cm C3
+
+Added more contrast by fogging the for later, and exposing the film for longer.  
+Also moved the page around a bit during the exposure to create some heavier shadows.  
+Re-exposed the paper after development to add texture to the border

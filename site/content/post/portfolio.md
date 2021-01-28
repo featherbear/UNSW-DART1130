@@ -174,7 +174,7 @@ f/4 9s @ 80cm, Contrast 1.5
 ![](/uploads/f4-5s-42cm.jpg)  
 f/4 5" @ 42cm
 
-"Look past me, but what do you really see?"
+“Look past me, but there is nothing here nor behind”
 
 ## Exposures 11 & 12 - Vision
 
@@ -238,7 +238,7 @@ Exposed the borders after partial development to create a non-uniform texture th
 ![](/uploads/f5-6-5s-23cm-c3.jpg)  
 Enlarger: f/5.6 5" @ 23cm, Contrast 3
 
-"Am I the same me, even on the other side"
+“The world below me sings of the same whistles and chimes”
 
 ## Exposure 18
 

@@ -131,6 +131,15 @@ f/5.6 6s,12s 42cm C2.5
 ![](/uploads/f5-6-6s-12s-42cm-c2-5-_2.jpg)  
 f/5.6 6s,12s 42cm C2.5
 
+![](/uploads/f5-6-6s-12s-42cm.jpg)  
+f5.6 6s,12s 42cm
+
+![](/uploads/f5-6-12s-42cm.jpg)  
+f5.6 12s 42cm
+
+![](/uploads/f5-6-12s-42cm-c1-5.jpg)  
+f5.6 12s 42cm c1.5
+
 ## Reality
 
 ![](/uploads/f11-2s-7cm.jpg)  

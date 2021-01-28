@@ -58,9 +58,9 @@ The day image has some leaked light from a card that was meant to block light (o
 
 # View
 
-|Part 1 | Part 2 |
-|:---:|:---:|
-|![](/uploads/view/view-1-f11-55cm.jpg)|![](/uploads/view/view-2-f11-55cm.jpg)|
+| Part 1 | Part 2 |
+| :---: | :---: |
+|  |  |
 
 Enlarger: f/11 @ 55cm  
 [More](../construction/view)
@@ -155,9 +155,21 @@ Enlarger: f/11 3" & 2" @ 11cm, Contrast 2.5
 
 Can expose for longer, to darken the background
 
+## Exposure 6 - Self
+
+![](/uploads/f4-9s-80cm-c1-5.jpg)  
+f/4 9s @ 80cm, Contrast 1.5
+
+## Exposure 8 - Concealed
+
+![](/uploads/f4-5s-42cm.jpg)  
+f/4 5" @ 42cm
+
 ## Exposures 11 & 12 - Vision
 
-TODO
+![](/uploads/f5-6-12s-42cm-c1-5.jpg)
+
+f5.6 12s 42cm c1.5
 
 ## Exposure 13 - Reflection
 
@@ -195,11 +207,21 @@ Enlarger: f/5.6 8.5" @ 43cm, Contrast 2.5
 ![](/uploads/f5-6-3x1-25-26cm-c2-5.jpg)  
 Enlarger: f/5.6 3x1.25" @ 26cm, Contrast 2.5
 
-  
 ![](/uploads/f5-6-4x0-6s-26cm-c2-5.jpg)  
 Enlarger: f/5.6 4x0.6" @ 26cm, Contrast 2.5
+
+## Exposure 14 - Caged
+
+![](/uploads/f4-8s-c3.jpg)
 
 ## Exposures 16 & 17 - Reality
 
 ![](/uploads/f5-6-5s-23cm-c3.jpg)  
 Enlarger: f/5.6 5" @ 23cm, Contrast 3
+
+## Exposure 18
+
+![](/uploads/f5-6-5s.jpg)  
+Enlarger: f/5.6 5s
+
+The paper was fogged at the top right, so I decided to add some extra detail around the rest of the frame border. I enlarged the film and defocused it then exposed it shortly

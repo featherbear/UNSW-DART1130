@@ -32,11 +32,10 @@ Combination of two exposures, each independently exposed on half the page
 
 ***
 
-> ### _"I am not who I think I am
->
-> I am not who you think I am  
-> I am who I think you think I am"  
-> \- Thomas Cooley_
+> **"I am not who I think I am**
+> **I am not who you think I am**  
+> **I am who I think you think I am"**  
+> \- _Thomas Cooley_
 
 ## Piece 2 - Self
 

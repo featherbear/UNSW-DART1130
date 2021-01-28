@@ -161,6 +161,18 @@ f/5.6 5.2" 43cm C2.5 - too dark
 ![](/uploads/f5-6-8-5s-43cm-c2-5.jpg)  
 f/5.6 8.5" 43cm C2.5
 
+## Self
+
+![](/uploads/f4-5s-10s-50cm.jpg)
+
+f4 5s,10s 50cm
+
+![](/uploads/f4-9s-c1-5.jpg)
+
+f4 9s c1.5
+
+***
+
 ![](/uploads/0t4a0961_dxo.jpg)  
 Digital test shot
 
@@ -192,3 +204,7 @@ Test shot: f/4 at 5s and 7s @ 42cm
 ![](/uploads/f4-5s-42cm.jpg)
 
 Final: f/4 5s @ 42cm
+
+## Trapped
+
+![](/uploads/f4-1s-fog-5s-42cm-c3.jpg)

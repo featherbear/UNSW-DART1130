@@ -238,7 +238,7 @@ Exposed the borders after partial development to create a non-uniform texture th
 ![](/uploads/f5-6-5s-23cm-c3.jpg)  
 Enlarger: f/5.6 5" @ 23cm, Contrast 3
 
-"I'm the same me, even on the other side"
+"Am I the same me, even on the other side"
 
 ## Exposure 18
 

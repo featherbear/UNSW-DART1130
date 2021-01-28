@@ -183,3 +183,12 @@ f/2.8 5" 23cm C2.5 - too dark
 
 ![](/uploads/f5-6-fx1s-c2-5.jpg)  
 Multiple exposure test. f/5.6" 3x1" C2.5
+
+## Concealed
+
+![](/uploads/f4-5s-7s.jpg)  
+Test shot: f/4 at 5s and 7s @ 42cm
+
+![](/uploads/f4-5s-42cm.jpg)
+
+Final: f/4 5s @ 42cm

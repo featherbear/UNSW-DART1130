@@ -223,14 +223,22 @@ Enlarger: f/5.6 3x1.25" @ 26cm, Contrast 2.5
 ![](/uploads/f5-6-4x0-6s-26cm-c2-5.jpg)  
 Enlarger: f/5.6 4x0.6" @ 26cm, Contrast 2.5
 
+"Are these four walls bored of me?"
+
 ## Exposure 14 - Caged
 
 ![](/uploads/f4-8s-c3.jpg)
+
+Enlarger: f/4 8s, Contrast 3
+
+Exposed the borders after partial development to create a non-uniform texture that emulates the dirtyness of the gates
 
 ## Exposures 16 & 17 - Reality
 
 ![](/uploads/f5-6-5s-23cm-c3.jpg)  
 Enlarger: f/5.6 5" @ 23cm, Contrast 3
+
+"I'm the same me, even on the other side"
 
 ## Exposure 18
 

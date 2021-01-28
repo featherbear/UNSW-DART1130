@@ -81,8 +81,6 @@ Exposed the borders after partial development to create a non-uniform texture th
 
 > _"I am not who I think I am. I am not who you think I am. I am who I think you think I am" -_ Thomas Cooley
 
-This quote has stuck around in my mind since I was in year 10. I remember reading it and thinking to myself, it is so true that the way we value ourselves is through how we think the world sees us.
-
 _We seek validation from the world, but in sonder - we will never know what others think of us. We tell ourselves what we think we are like, and that becomes our reality. When we drown our lives in the symphonious cacophony of the world, we lose ourselves.   
 The way we see ourselves, the way others see us, the way we think others see us - they become one and the same. We bury ourselves in a trapped frame of thought that we so desperately need to climb out of._
 

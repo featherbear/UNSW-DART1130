@@ -21,9 +21,23 @@ Walead used the physical attributes of his photograms as core components of the 
 
 # Sarah Mosca
 
+Abstract...?
+
+![](/uploads/snipaste_2021-01-29_01-16-24.png)![](/uploads/snipaste_2021-01-29_01-16-12.png)
+
+# Shan Turner Carroll
+
+Sun Moon Walk  
+Uses the idea of mirrors to displace what is in the foreground - revealing another perspective of the environment through the camera
+
+![](/uploads/snipaste_2021-01-29_01-14-14.png)
+
 # Tacia Dean
 
-Green Ray video
+Green Ray video. Passing of time.  
+Entire artwork displayed in the form of a giant filmstrip
+
+![](/uploads/snipaste_2021-01-29_01-13-00.png)
 
 # David Haines
 
@@ -56,4 +70,8 @@ Simon has several long-exposure photo series that make use of both stationary an
 
 # Sara Oscar
 
-Uses the idea of mirrors to displace what is in the foreground - revealing another perspective of the environment through the camera
+Use of analogue paper technique to combine images.  
+Dodging and burning of images, selective colouring of images.  
+Overlaying images over another, etc
+
+![](/uploads/snipaste_2021-01-29_01-10-44.png)

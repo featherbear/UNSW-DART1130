@@ -99,17 +99,21 @@ In terms of usability, it may be hard to use because the entire page would have 
 
 (But with a digital camera, because film is expensive!)
 
-![](/uploads/night/0t4a0988_dxo.jpg)
+![](/uploads/night/0t4a0988_dxo.jpg)  
+I realise, my film camera's timer is broken - so I wouldn't be able to put myself in the photo without having another person press it...
 
 ![](/uploads/night/0t4a0992.JPG)  
-68mm, f/5, 4", ISO 500
+68mm, f/5, 4", ISO 500 - DSLR
 
 ![](/uploads/night/0t4a0993.JPG)  
-35mm, f/4, 1", ISO 400  
+35mm, f/4, 1", ISO 400 - DSLR  
 This one is sorta like, reaching out to the light
 
+## Long Exposures
+
 ![](/uploads/night/0t4a1009_dxo.jpg)![](/uploads/night/0t4a1011_dxo.jpg)  
-73mm, f/14, 8", ISO 400
+73mm, f/14, 8", ISO 400 - DSLR  
+Stood in the photo for a partial amount of time, so that my silhouette would blend in (but not mask) the background
 
 For the second photo, I ran into the shot halfway during the exposure
 
@@ -127,6 +131,8 @@ SLR: f/2.8 1/125s ISO 400
 Enlarger: 14s, f/8
 
 Campus cats!
+
+***
 
 ![](/uploads/contact-2-f8-10s.jpg)
 
@@ -151,7 +157,10 @@ Campus cats!
 
 ![](/uploads/f11-3s-2s-11cm-c2-5.jpg)
 
-Enlarger: f/11 3" & 2" @ 11cm, Contrast 2.5
+Enlarger: f/11 3" & 2" @ 11cm, Contrast 2.5.
+
+Tried to capture a still subject in front of a busy environment (people walking around).  
+But because of COVID-19, the city is abit quiet... People aren't hustling and bustling around as frequently nor quickly as before.
 
 Can expose for longer, to darken the background
 
@@ -165,20 +174,24 @@ f/4 9s @ 80cm, Contrast 1.5
 ![](/uploads/f4-5s-42cm.jpg)  
 f/4 5" @ 42cm
 
+"Look past me, but what do you really see?"
+
 ## Exposures 11 & 12 - Vision
 
 ![](/uploads/f5-6-12s-42cm-c1-5.jpg)
 
-f5.6 12s 42cm c1.5
+f/5.6 12" @ 42cm, Contrast 1.5
+
+Am I still me?
 
 ## Exposure 13 - Reflection
 
 ![](/uploads/f5-6-8-5s-43cm-c2-5.jpg)  
 Enlarger: f/5.6 8.5" @ 43cm, Contrast 2.5
 
-![](/uploads/contact-3-f8-20s-10s-38cm.jpg)
+***
 
-{insert exposures}
+![](/uploads/contact-3-f8-20s-10s-38cm.jpg)
 
 | Exposure | Aperture | Shutter Speed (s) |
 | :---: | :---: | :---: |

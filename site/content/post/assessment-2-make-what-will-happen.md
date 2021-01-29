@@ -22,6 +22,8 @@ options = ""
 
 # Identity
 
+![](/uploads/20210129_125330.jpg)
+
 ## Piece 1 - Vision
 
 ![](/uploads/f5-6-12s-42cm-c1-5.jpg)
